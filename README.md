@@ -1,5 +1,6 @@
 Django Pipeline Node Sass
 =========================
+[VERSION 1.0.0 - 05/18/2014]
 
 django-pipeline-node-sass is a compiler for [django-pipeline](https://github.com/cyberdelia/django-pipeline). 
 
