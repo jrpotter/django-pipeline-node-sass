@@ -25,6 +25,6 @@ PIPELINE_NODE_SASS_BINARY = '...'
 PIPELINE_NODE_SASS_ARGUMENTS = '...'
 
 PIPELINE_COMPILERS = (
-    'pipeline_node_sass.compilers.NodeSassCompiler',
+    'pipeline_node_sass.compiler.NodeSassCompiler',
 )
 ```
